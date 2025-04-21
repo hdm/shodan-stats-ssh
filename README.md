@@ -1,6 +1,6 @@
 # Shodan Stats (SSH)
 
-This repository includes single-day snapshot stats of SSH detection across the internet, sourced from (Shodan)[https://shodan.io].
+This repository includes single-day snapshot stats of SSH detection across the internet, sourced from [Shodan](https://www.shodan.io).
 
 The daily snapshots represent only a small portion of the results observed through the web interface.
 
